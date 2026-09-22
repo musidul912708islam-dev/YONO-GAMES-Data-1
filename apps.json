@@ -845,5 +845,18 @@
     "withdrawal": "₹100",
     "position": 77,
     "active": true
+  },
+  {
+    "id": "app-056244743",
+    "name": "Ffvv",
+    "image": "https://i.ibb.co/Qv25RHQP/Screenshot-20260913-225822.jpg",
+    "imageName": "Gccv",
+    "appUrl": "https://i.ibb.co/Qv25RHQP/Screenshot-20260913-225822.jpg",
+    "bonus": "80",
+    "withdrawal": "₹100",
+    "position": 78,
+    "active": true,
+    "createdAt": "2026-09-22T05:50:44.745Z",
+    "updatedAt": "2026-09-22T05:50:44.745Z"
   }
 ]
